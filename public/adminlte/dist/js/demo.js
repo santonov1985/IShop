@@ -538,7 +538,7 @@
 
   $container.append($navbar_variants)
 
-  // Sidebar Colors
+  // Sidebar colors
 
   $container.append('<h6>Accent Color Variants</h6>')
   var $accent_variants = $('<div />', {
